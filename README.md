@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./@ASSETS/logo.png" alt="Logo" width="160" height="160" style="border-radius: 50%;">
+  <img src="./@ASSETS/logo.png" alt="The-C-Blueprint Logo" width="160" height="160" style="border-radius: 50; object-fit: cover;">
 </p>
 
 <h1 align="center">The-C-Blueprint</h1>
