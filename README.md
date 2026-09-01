@@ -8,15 +8,9 @@
   <b>Mastering C programming from scratch, turning raw logic into clean code.</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="Language">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success.svg" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
-</p>
-
 ---
 
-## 🚀 Introduction
+## Introduction
 
 **The-C-Blueprint** is my personal digital workspace and tracker. As a B.Tech CSE (AI & ML) freshman, this repository documents my journey of mastering C programming from day one!
 
