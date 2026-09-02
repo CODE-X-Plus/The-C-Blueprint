@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./@ASSETS/logo.png" alt="The-C-Blueprint Logo" width="160" height="160" style="border-radius: 50; object-fit: cover;">
-</p>
+<div align="center">
+  <img src="./@ASSETS/logo2.png" alt="The-C-Blueprint Logo" width="360" height="360" style="border-radius: 16px; object-fit: cover; display: block; margin: 0 auto;">
+</div>
 
 <h1 align="center">The-C-Blueprint</h1>
 
