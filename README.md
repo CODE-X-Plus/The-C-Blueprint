@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./@ASSETS/Proton.png" alt="The-C-Blueprint Logo" width="260" height="160" style="border-radius: 16px; object-fit: cover; display: block; margin: 0 auto;">
 
-<h1 align="center">The-C-Blueprint</h1>
+<h1 align="center">THE-C-BLUEPRINT</h1>
 
 <p align="center">
   <b>Mastering C programming from scratch, turning raw logic into clean code.</b>
