@@ -1,11 +1,11 @@
 <svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="blueprint-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0b1d51" />
-      <stop offset="25%" stop-color="#31215c" />
-      <stop offset="50%" stop-color="#9b2d72" />
-      <stop offset="75%" stop-color="#e64a78" />
-      <stop offset="100%" stop-color="#ff8c42" />
+      <stop offset="0%" stop-color="#FF69B4" />
+      <stop offset="25%" stop-color="#FF1493" />
+      <stop offset="50%" stop-color="#00D2FF" />
+      <stop offset="75%" stop-color="#3A7BD5" />
+      <stop offset="100%" stop-color="#00FFA3" />
     </linearGradient>
   </defs>
   <style>
