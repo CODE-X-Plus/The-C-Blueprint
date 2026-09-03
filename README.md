@@ -19,24 +19,24 @@
 ```text
 The-C-Blueprint
 │
-├── @Besics_&_Fundamentals           ---- 
-│   ├── 🌀Besics                        |
-|   ├── 🌀Function                      |        
-│   ├── 🌀Arrays_&_String               |        |---🔅Besics_Algarithm
-|   ├── 🌀Eror_Handaling                |--------|
-|   ├── 🌀File_Handling                 |        |---🔅Mini_Projects
-|   ├── 🌀Memory_Management             |      
-|   ├── 🌀Miscellaneous Concepts        |
-|   ├── 🌀Pointers                      |
-|   └── 🌀User_Defined_Data_Types    ----
+├── @Besics_&_Fundamentals          ---- 
+│   ├── 🌀Besics                       |
+|   ├── 🌀Function                     |        
+│   ├── 🌀Arrays_&_String              |   |--🔅Besics_Algarithms
+|   ├── 🌀Eror_Handaling               |---|
+|   ├── 🌀File_Handling                |   |--🔅Creative_Projects
+|   ├── 🌀Memory_Management            |      
+|   ├── 🌀Miscellaneous Concepts       |
+|   ├── 🌀Pointers                     |
+|   └── 🌀User_Defined_Data_Types   ----
 |      
 |
 ├── @DSA
 ├── @Spacial_Algaritham
-│               
-├──  @ASSETS      |
-├── .gitignore    |
-└──  README.md    |
-                
+│              ----
+├──  @ASSETS       |
+├── .gitignore     |
+└──  README.md     |
+               ----
 ```
 
