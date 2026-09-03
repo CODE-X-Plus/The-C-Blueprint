@@ -33,10 +33,10 @@ The-C-Blueprint
 |
 ├── @DSA
 ├── @Spacial_Algaritham
-│             ---
-├──  @ASSETS     |
-├── .gitignore   |
-└──  README.md   |
-              ---
+│             --
+├──  @ASSETS    |
+├── .gitignore  |
+└──  README.md  |
+              --
 ```
 
