@@ -7,11 +7,6 @@
 
 ---
 
-<p align="center">
-  <b>Mastering C programming from scratch, turning raw logic into clean code.</b>
-</p>
-
-
 
 ## Introduction
 
