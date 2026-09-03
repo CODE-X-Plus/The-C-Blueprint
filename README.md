@@ -14,20 +14,29 @@
 **The-C-Blueprint** is my personal digital workspace and tracker. As a B.Tech CSE (AI & ML) freshman, this repository documents my journey of mastering C programming from day one!
 
 ---
-📂 PROJECT STRUCTURE
+📂 PROJECT STRUCTURE </div>
 -
-**The-C-Blueprint**
+```text
+The-C-Blueprint
 │
-├── src/
-│   ├── main.c          # Entry point and menu logic
-│   ├── functions.c     # Core logic and algorithm implementations
-│   └── header.h        # Function prototypes and custom structures
-│
-├── data/
-│   └── database.txt    # Local storage file for records
-│
-├── .gitignore
-└── README.md
-
--
+├── @Besics_&_Fundamentals           ---- 
+│   ├── 🌀Besics                        |
+|   ├── 🌀Function                      |        
+│   ├── 🌀Arrays_&_String               |        |---🔅Besics_Algarithm
+|   ├── 🌀Eror_Handaling                |--------|
+|   ├── 🌀File_Handling                 |        |---🔅Mini_Projects
+|   ├── 🌀Memory_Management             |      
+|   ├── 🌀Miscellaneous Concepts        |
+|   ├── 🌀Pointers                      |
+|   └── 🌀User_Defined_Data_Types    ----
+|      
+|
+├── @DSA
+├── @Spacial_Algaritham
+│               
+├──  @ASSETS      |
+├── .gitignore    |
+└──  README.md    |
+                
+```
 
