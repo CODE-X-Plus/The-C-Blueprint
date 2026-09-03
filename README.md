@@ -6,6 +6,7 @@
 </p>
 
 ---
+---
 
 
 ## INTRODUCTION
@@ -15,3 +16,18 @@
 ---
 📂 PROJECT STRUCTURE
 -
+**The-C-Blueprint**
+│
+├── src/
+│   ├── main.c          # Entry point and menu logic
+│   ├── functions.c     # Core logic and algorithm implementations
+│   └── header.h        # Function prototypes and custom structures
+│
+├── data/
+│   └── database.txt    # Local storage file for records
+│
+├── .gitignore
+└── README.md
+
+-
+
