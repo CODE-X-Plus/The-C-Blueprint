@@ -1,6 +1,9 @@
 <div align="center">
   <img src="./@ASSETS/Proton.png" alt="The-C-Blueprint Logo" width="260" height="160" style="border-radius: 16px; object-fit: cover; display: block; margin: 0 auto;">
 <br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/main/banner.svg">
+</p>
 
 <h1 align="center">THE-C-BLUEPRINT</h1>
 
