@@ -40,48 +40,47 @@ The-C-Blueprint
               --
 ```
 
-<table style="width:100%; border-collapse: collapse; font-family: sans-serif; font-size: 14px;">
+<table style="width: 100%; border-collapse: collapse; font-family: sans-serif; font-size: 12px;">
 <thead>
 <tr style="background-color: #202124; color: #ffffff; text-align: left;">
-<th style="padding: 12px; border: 1px solid #5f6368; width: 20%;">Difficulty / Category</th>
-<th style="padding: 12px; border: 1px solid #5f6368; width: 55%;">Key Focus & Features</th>
-<th style="padding: 12px; border: 1px solid #5f6368; width: 25%;">Directory Path</th>
+<th style="padding: 6px 8px; border: 1px solid #5f6368; width: 18%;">Difficulty / Category</th>
+<th style="padding: 6px 8px; border: 1px solid #5f6368; width: 57%;">Key Focus & Features</th>
+<th style="padding: 6px 8px; border: 1px solid #5f6368; width: 25%;">Directory Path</th>
 </tr>
 </thead>
 <tbody>
 <!-- Simple Level -->
 <tr style="background-color: #e6f4ea;">
-<td style="padding: 12px; border: 1px solid #d2e3fc; border-left: 6px solid #34a853; font-weight: bold; color: #137333;">🟢 Simple</td>
-<td style="padding: 12px; border: 1px solid #d2e3fc; color: #202124;">Basic syntax, control flow, loops, functions, and arrays (20 fundamental exercises like Hello World, Factorial, Prime Check).</td>
-<td style="padding: 12px; border: 1px solid #d2e3fc; font-family: monospace; color: #5f6368;">c-beginner-problems/</td>
+<td style="padding: 6px 8px; border: 1px solid #d2e3fc; border-left: 4px solid #34a853; font-weight: bold; color: #137333;">🟢 Simple</td>
+<td style="padding: 6px 8px; border: 1px solid #d2e3fc; color: #202124;">Basic syntax, control flow, loops, functions, and arrays (20 fundamental exercises like Hello World, Factorial, Prime Check).</td>
+<td style="padding: 6px 8px; border: 1px solid #d2e3fc; font-family: monospace; font-size: 11px; color: #5f6368;">c-beginner-problems/</td>
 </tr>
 <!-- Medium Level -->
 <tr style="background-color: #e8f0fe;">
-<td style="padding: 12px; border: 1px solid #d2e3fc; border-left: 6px solid #1a73e8; font-weight: bold; color: #174ea6;">🔵 Medium</td>
-<td style="padding: 12px; border: 1px solid #d2e3fc; color: #202124;">Pointers, multi-dimensional arrays, strings, structures, searching, sorting, and dynamic memory allocation (20 exercises).</td>
-<td style="padding: 12px; border: 1px solid #d2e3fc; font-family: monospace; color: #5f6368;">c-medium-problems/</td>
+<td style="padding: 6px 8px; border: 1px solid #d2e3fc; border-left: 4px solid #1a73e8; font-weight: bold; color: #174ea6;">🔵 Medium</td>
+<td style="padding: 6px 8px; border: 1px solid #d2e3fc; color: #202124;">Pointers, multi-dimensional arrays, strings, structures, searching, sorting, and dynamic memory allocation (20 exercises).</td>
+<td style="padding: 6px 8px; border: 1px solid #d2e3fc; font-family: monospace; font-size: 11px; color: #5f6368;">c-medium-problems/</td>
 </tr>
 <!-- Hard Level -->
 <tr style="background-color: #fef7e0;">
-<td style="padding: 12px; border: 1px solid #fce8e6; border-left: 6px solid #fbbc04; font-weight: bold; color: #b06000;">🟠 Hard</td>
-<td style="padding: 12px; border: 1px solid #fce8e6; color: #202124;">Advanced data structures, backtracking algorithms, custom memory allocators, graph traversal, and multithreading basics.</td>
-<td style="padding: 12px; border: 1px solid #fce8e6; font-family: monospace; color: #5f6368;">c-hard-problems/</td>
+<td style="padding: 6px 8px; border: 1px solid #fce8e6; border-left: 4px solid #fbbc04; font-weight: bold; color: #b06000;">🟠 Hard</td>
+<td style="padding: 6px 8px; border: 1px solid #fce8e6; color: #202124;">Advanced data structures, backtracking algorithms, custom memory allocators, graph traversal, and multithreading basics.</td>
+<td style="padding: 6px 8px; border: 1px solid #fce8e6; font-family: monospace; font-size: 11px; color: #5f6368;">c-hard-problems/</td>
 </tr>
 <!-- Advanced Level -->
 <tr style="background-color: #f3e8fd;">
-<td style="padding: 12px; border: 1px solid #e9d5ff; border-left: 6px solid #9334e6; font-weight: bold; color: #6b21a8;">🟣 Advanced</td>
-<td style="padding: 12px; border: 1px solid #e9d5ff; color: #202124;">Systems programming, lock-free concurrency, virtual machines, network event loops, garbage collectors, and custom database indices.</td>
-<td style="padding: 12px; border: 1px solid #e9d5ff; font-family: monospace; color: #5f6368;">c-advanced-problems/</td>
+<td style="padding: 6px 8px; border: 1px solid #e9d5ff; border-left: 4px solid #9334e6; font-weight: bold; color: #6b21a8;">🟣 Advanced</td>
+<td style="padding: 6px 8px; border: 1px solid #e9d5ff; color: #202124;">Systems programming, lock-free concurrency, virtual machines, network event loops, garbage collectors, and custom database indices.</td>
+<td style="padding: 6px 8px; border: 1px solid #e9d5ff; font-family: monospace; font-size: 11px; color: #5f6368;">c-advanced-problems/</td>
 </tr>
 <!-- Mini Projects -->
 <tr style="background-color: #f1f3f4;">
-<td style="padding: 12px; border: 1px solid #dadce0; border-left: 6px solid #5f6368; font-weight: bold; color: #3c4043;">📁 Mini Projects</td>
-<td style="padding: 12px; border: 1px solid #dadce0; color: #202124;">Real-world applications spanning simple trackers to a fully-featured POSIX Shell with pipes/redirection and a relational DB engine.</td>
-<td style="padding: 12px; border: 1px solid #dadce0; font-family: monospace; color: #5f6368;">c-mini-projects/</td>
+<td style="padding: 6px 8px; border: 1px solid #dadce0; border-left: 4px solid #5f6368; font-weight: bold; color: #3c4043;">📁 Mini Projects</td>
+<td style="padding: 6px 8px; border: 1px solid #dadce0; color: #202124;">Real-world applications spanning simple trackers to a fully-featured POSIX Shell with pipes/redirection and a relational DB engine.</td>
+<td style="padding: 6px 8px; border: 1px solid #dadce0; font-family: monospace; font-size: 11px; color: #5f6368;">c-mini-projects/</td>
 </tr>
 </tbody>
 </table>
-
 
 ---
 
