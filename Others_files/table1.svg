@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" width="100%" height="100%">
+  <style>
+    .header-bg { fill: #374151; }
+    .header-text { font-family: sans-serif; font-size: 13px; font-weight: bold; fill: #f3f4f6; letter-spacing: 0.5px; }
+    .cell-text { font-family: sans-serif; font-size: 12px; fill: #202124; }
+    .code-text { font-family: monospace; font-size: 11px; fill: #4b5563; }
+    .bold { font-weight: bold; }
+  </style>
+
+  <!-- Table Outer Border / Background -->
+  <rect width="900" height="310" fill="#ffffff" rx="6" stroke="#e5e7eb" stroke-width="1" />
+
+  <!-- ================= HEADER (Modified: First heading removed, Capital & Bold text) ================= -->
+  <rect x="0" y="0" width="900" height="40" class="header-bg" rx="6" />
+  <rect x="0" y="20" width="900" height="20" class="header-bg" />
+  <text x="180" y="25" class="header-text">KEY FOCUS &amp; FEATURES</text>
+  <text x="700" y="25" class="header-text">DIRECTORY PATH</text>
+
+  <!-- ================= ROW 1: SIMPLE ================= -->
+  <rect x="0" y="40" width="900" height="52" fill="#e6f4ea" />
+  <rect x="0" y="40" width="4" height="52" fill="#34a853" />
+  <!-- Cell 1 -->
+  <text x="20" y="71" class="cell-text bold" fill="#137333">⚙️ Simple</text>
+  <!-- Cell 2 -->
+  <text x="180" y="63" class="cell-text">Basic syntax, control flow, loops, functions, and arrays (20 fundamental</text>
+  <text x="180" y="80" class="cell-text">exercises like Hello World, Factorial, Prime Check).</text>
+  <!-- Cell 3 -->
+  <text x="700" y="71" class="code-text">c-beginner-problems/</text>
+  <!-- Separator Line -->
+  <line x1="0" y1="92" x2="900" y2="92" stroke="#d2e3fc" stroke-width="1" />
+
+  <!-- ================= ROW 2: MEDIUM ================= -->
+  <rect x="0" y="92" width="900" height="52" fill="#e8f0fe" />
+  <rect x="0" y="92" width="4" height="52" fill="#1a73e8" />
+  <!-- Cell 1 -->
+  <text x="20" y="123" class="cell-text bold" fill="#174ea6">⚙️ Medium</text>
+  <!-- Cell 2 -->
+  <text x="180" y="115" class="cell-text">Pointers, multi-dimensional arrays, strings, structures, searching,</text>
+  <text x="180" y="132" class="cell-text">sorting, and dynamic memory allocation (20 exercises).</text>
+  <!-- Cell 3 -->
+  <text x="700" y="123" class="code-text">c-medium-problems/</text>
+  <!-- Separator Line -->
+  <line x1="0" y1="144" x2="900" y2="144" stroke="#d2e3fc" stroke-width="1" />
+
+  <!-- ================= ROW 3: HARD ================= -->
+  <rect x="0" y="144" width="900" height="52" fill="#fef7e0" />
+  <rect x="0" y="144" width="4" height="52" fill="#fbbc04" />
+  <!-- Cell 1 -->
+  <text x="20" y="175" class="cell-text bold" fill="#b06000">⚙️ Hard</text>
+  <!-- Cell 2 -->
+  <text x="180" y="167" class="cell-text">Advanced data structures, backtracking algorithms, custom memory</text>
+  <text x="180" y="184" class="cell-text">allocators, graph traversal, and multithreading basics.</text>
+  <!-- Cell 3 -->
+  <text x="700" y="175" class="code-text">c-hard-problems/</text>
+  <!-- Separator Line -->
+  <line x1="0" y1="196" x2="900" y2="196" stroke="#fce8e6" stroke-width="1" />
+
+  <!-- ================= ROW 4: ADVANCED ================= -->
+  <rect x="0" y="196" width="900" height="52" fill="#f3e8fd" />
+  <rect x="0" y="196" width="4" height="52" fill="#9334e6" />
+  <!-- Cell 1 -->
+  <text x="20" y="227" class="cell-text bold" fill="#6b21a8">⚙️ Advanced</text>
+  <!-- Cell 2 -->
+  <text x="180" y="219" class="cell-text">Systems programming, lock-free concurrency, virtual machines,</text>
+  <text x="180" y="236" class="cell-text">network event loops, garbage collectors, and custom database indices.</text>
+  <!-- Cell 3 -->
+  <text x="700" y="227" class="code-text">c-advanced-problems/</text>
+  <!-- Separator Line -->
+  <line x1="0" y1="248" x2="900" y2="248" stroke="#e9d5ff" stroke-width="1" />
+
+  <!-- ================= ROW 5: MINI PROJECTS ================= -->
+  <rect x="0" y="248" width="900" height="62" fill="#f1f3f4" rx="6" />
+  <rect x="0" y="248" width="4" height="62" fill="#5f6368" />
+  <!-- Cell 1 -->
+  <text x="20" y="283" class="cell-text bold" fill="#3c4043">⚙️ Mini Projects</text>
+  <!-- Cell 2 -->
+  <text x="180" y="271" class="cell-text">Real-world applications spanning simple trackers to a fully-featured</text>
+  <text x="180" y="288" class="cell-text">POSIX Shell with pipes/redirection and a relational DB engine.</text>
+  <!-- Cell 3 -->
+  <text x="700" y="283" class="code-text">c-mini-projects/</text>
+
+</svg>
