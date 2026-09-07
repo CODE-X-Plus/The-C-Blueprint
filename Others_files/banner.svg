@@ -1,13 +1,43 @@
 <svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Premium Dark Theme Gradient (Luminous Platinum & Silver for dark backgrounds) -->
+    <linearGradient id="dark-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#e2e8f0" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <!-- Premium Light Theme Gradient (Deep Obsidian & Slate for light backgrounds) -->
+    <linearGradient id="light-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#334155" />
+    </linearGradient>
+  </defs>
+
   <style>
     .title-text {
       font-family: 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       font-size: 58px;
       font-weight: 800;
-      fill: #ffffff;
       letter-spacing: 3px;
-      filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.8));
+    }
+
+    /* Automatically adapts to system dark and light themes */
+    @media (prefers-color-scheme: dark) {
+      .title-text {
+        fill: url(#dark-gradient);
+        filter: drop-shadow(0px 4px 16px rgba(255, 255, 255, 0.25));
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      .title-text {
+        fill: url(#light-gradient);
+        filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.2));
+      }
     }
   </style>
+
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title-text">THE-C-BLUEPRINT</text>
 </svg>
