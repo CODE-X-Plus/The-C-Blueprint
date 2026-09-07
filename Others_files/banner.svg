@@ -1,20 +1,12 @@
 <svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="blueprint-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="50%" stop-color="#ff1b6b" />
-      
-      <stop offset="50%" stop-color="#f43f5e" />
-      
-    </linearGradient>
-  </defs>
   <style>
     .title-text {
       font-family: 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
       font-size: 58px;
       font-weight: 800;
-      fill: url(#blueprint-gradient);
+      fill: #ffffff;
       letter-spacing: 3px;
-      filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.1));
+      filter: drop-shadow(0px 4px 12px rgba(0, 0, 0, 0.8));
     }
   </style>
   <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title-text">THE-C-BLUEPRINT</text>
