@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 490" width="100%" height="100%">
+  <style>
+    .section-header { font-family: sans-serif; font-size: 13px; font-weight: bold; fill: #f3f4f6; letter-spacing: 0.5px; }
+    .code-text { font-family: monospace; font-size: 12px; fill: #24292e; white-space: pre; }
+    .bold { font-weight: bold; }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="950" height="490" fill="#f8fafc" rx="8" />
+
+  <!-- ================= LEFT BOX (Part 1) ================= -->
+  <!-- Box Background & Margin -->
+  <rect x="20" y="20" width="445" height="450" fill="#eff6ff" rx="6" stroke="#bfdbfe" stroke-width="1.5" />
+  <!-- Header Bar (Matching Dark Slate Theme) -->
+  <rect x="20" y="20" width="445" height="40" fill="#374151" rx="6" />
+  <rect x="20" y="40" width="445" height="20" fill="#374151" />
+  <text x="45" y="45" class="section-header">PART 1 (PROBLEMS 01 – 10)</text>
+
+  <!-- Left Code Content -->
+  <text x="40" y="85" class="code-text"><tspan class="bold" fill="#1e3a8a">c-beginner-problems/</tspan></text>
+  <text x="40" y="105" class="code-text">├── 01_hello_world/</text>
+  <text x="40" y="125" class="code-text">│   └── hello.c</text>
+  <text x="40" y="145" class="code-text">├── 02_add_two_numbers/</text>
+  <text x="40" y="165" class="code-text">│   └── add.c</text>
+  <text x="40" y="185" class="code-text">├── 03_even_odd/</text>
+  <text x="40" y="205" class="code-text">│   └── even_odd.c</text>
+  <text x="40" y="225" class="code-text">├── 04_largest_of_three/</text>
+  <text x="40" y="245" class="code-text">│   └── largest.c</text>
+  <text x="40" y="265" class="code-text">├── 05_celsius_to_fahrenheit/</text>
+  <text x="40" y="285" class="code-text">│   └── temp_conv.c</text>
+  <text x="40" y="305" class="code-text">├── 06_check_prime/</text>
+  <text x="40" y="325" class="code-text">│   └── prime.c</text>
+  <text x="40" y="345" class="code-text">├── 07_calculate_factorial/</text>
+  <text x="40" y="365" class="code-text">│   └── factorial.c</text>
+  <text x="40" y="385" class="code-text">├── 08_fibonacci_sequence/</text>
+  <text x="40" y="405" class="code-text">│   └── fibonacci.c</text>
+  <text x="40" y="425" class="code-text">├── 09_reverse_number/</text>
+  <text x="40" y="445" class="code-text">│   └── reverse.c</text>
+  <text x="40" y="465" class="code-text">└── 10_palindrome_check/</text>
+
+  <!-- ================= RIGHT BOX (Part 2) ================= -->
+  <!-- Box Background & Margin -->
+  <rect x="485" y="20" width="445" height="450" fill="#f0fdf4" rx="6" stroke="#bbf7d0" stroke-width="1.5" />
+  <!-- Header Bar (Matching Dark Slate Theme) -->
+  <rect x="485" y="20" width="445" height="40" fill="#374151" rx="6" />
+  <rect x="485" y="40" width="445" height="20" fill="#374151" />
+  <text x="510" y="45" class="section-header">PART 2 (PROBLEMS 11 – 20)</text>
+
+  <!-- Right Code Content -->
+  <text x="505" y="85" class="code-text"><tspan class="bold" fill="#14532d">c-beginner-problems/</tspan></text>
+  <text x="505" y="105" class="code-text">├── 11_swap_numbers/</text>
+  <text x="505" y="125" class="code-text">│   └── swap.c</text>
+  <text x="505" y="145" class="code-text">├── 12_leap_year/</text>
+  <text x="505" y="165" class="code-text">│   └── leap_year.c</text>
+  <text x="505" y="185" class="code-text">├── 13_vowel_consonant/</text>
+  <text x="505" y="205" class="code-text">│   └── vowel_check.c</text>
+  <text x="505" y="225" class="code-text">├── 14_multiplication_table/</text>
+  <text x="505" y="245" class="code-text">│   └── table.c</text>
+  <text x="505" y="265" class="code-text">├── 15_sum_of_digits/</text>
+  <text x="505" y="285" class="code-text">│   └── sum_digits.c</text>
+  <text x="505" y="305" class="code-text">├── 16_array_max_min/</text>
+  <text x="505" y="325" class="code-text">│   └── max_min.c</text>
+  <text x="505" y="345" class="code-text">├── 17_linear_search/</text>
+  <text x="505" y="365" class="code-text">│   └── linear_search.c</text>
+  <text x="505" y="385" class="code-text">├── 18_count_vowels_consonants/</text>
+  <text x="505" y="405" class="code-text">│   └── count_chars.c</text>
+  <text x="505" y="425" class="code-text">├── 19_matrix_addition/</text>
+  <text x="505" y="445" class="code-text">│   └── matrix_add.c</text>
+  <text x="505" y="465" class="code-text">└── 20_calculate_power/</text>
+
+</svg>
