@@ -52,5 +52,5 @@ The-C-Blueprint
 ---
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/main/Others_files/table2.svg">
+<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/main/Others_files/table3.svg">
 </p>
