@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <defs>
     <style>
@@ -158,3 +159,165 @@
   </g>
 </svg>
 
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" width="100%" height="100%" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <style>
+      .grid-line { stroke: #e5e7eb; stroke-width: 1; stroke-dasharray: 4 4; }
+      .axis-line { stroke: #d1d5db; stroke-width: 1; }
+      .axis-text { fill: #6b7280; font-size: 12px; text-anchor: end; }
+      .title-text { fill: #4b5563; font-size: 13px; font-weight: 600; text-anchor: middle; letter-spacing: 0.5px; text-transform: uppercase; }
+      .bar-label { fill: #374151; font-size: 11px; text-anchor: middle; font-weight: 500; }
+      .bar-value { fill: #1f2937; font-size: 12px; font-weight: 700; text-anchor: middle; }
+      .legend-text { fill: #374151; font-size: 12px; font-weight: 500; }
+    </style>
+    <!-- Gradient definitions based on percentage/intensity -->
+    <linearGradient id="grad-high" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff5100" />
+      <stop offset="100%" stop-color="#ff8c00" />
+    </linearGradient>
+    <linearGradient id="grad-mid-high" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+    <linearGradient id="grad-mid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+    <linearGradient id="grad-low" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9ca3af" />
+      <stop offset="100%" stop-color="#d1d5db" />
+    </linearGradient>
+  </defs>
+
+  <!-- Explicit Solid White Background -->
+  <rect width="900" height="520" fill="#ffffff" />
+
+  <!-- Small Uppercase Title -->
+  <text x="450" y="45" class="title-text">C Projects Benchmark: Complexity &amp; Performance</text>
+
+  <!-- Legend -->
+  <g transform="translate(640, 25)">
+    <rect x="0" y="0" width="14" height="14" fill="#ff6b00" rx="2" />
+    <text x="22" y="11" class="legend-text">&gt;80% (Top Tier)</text>
+    
+    <rect x="120" y="0" width="14" height="14" fill="#3b82f6" rx="2" />
+    <text x="142" y="11" class="legend-text">65%-80%</text>
+
+    <rect x="0" y="22" width="14" height="14" fill="#8b5cf6" rx="2" />
+    <text x="22" y="33" class="legend-text">45%-64%</text>
+
+    <rect x="120" y="22" width="14" height="14" fill="#9ca3af" rx="2" />
+    <text x="142" y="33" class="legend-text">&lt;45%</text>
+  </g>
+
+  <!-- Y-Axis Grid Lines & Labels -->
+  <text x="75" y="94" class="axis-text">90</text>
+  <line x1="95" y1="90" x2="850" y2="90" class="grid-line" />
+
+  <text x="75" y="144" class="axis-text">80</text>
+  <line x1="95" y1="140" x2="850" y2="140" class="grid-line" />
+
+  <text x="75" y="194" class="axis-text">70</text>
+  <line x1="95" y1="190" x2="850" y2="190" class="grid-line" />
+
+  <text x="75" y="244" class="axis-text">60</text>
+  <line x1="95" y1="240" x2="850" y2="240" class="grid-line" />
+
+  <text x="75" y="294" class="axis-text">50</text>
+  <line x1="95" y1="290" x2="850" y2="290" class="grid-line" />
+
+  <text x="75" y="344" class="axis-text">40</text>
+  <line x1="95" y1="340" x2="850" y2="340" class="grid-line" />
+
+  <text x="75" y="394" class="axis-text">30</text>
+  <line x1="95" y1="390" x2="850" y2="390" class="grid-line" />
+
+  <!-- Y-Axis Title -->
+  <text x="35" y="245" class="axis-text" transform="rotate(-90 35 245)" style="text-anchor: middle; font-weight: 600;">Score (%)</text>
+
+  <!-- Baseline X-Axis -->
+  <line x1="95" y1="440" x2="850" y2="440" class="axis-line" />
+
+  <!-- Bars and Data (10 Projects) with Constant Height Layout & Percentage Color Coding -->
+  
+  <!-- 1. Custom POSIX Shell (88.0%) -->
+  <g transform="translate(110, 0)">
+    <text x="30" y="80" class="bar-value">88.0%</text>
+    <rect x="5" y="100" width="50" height="340" fill="url(#grad-high)" rx="3" />
+    <text x="30" y="458" class="bar-label">Custom</text>
+    <text x="30" y="473" class="bar-label">POSIX Shell</text>
+  </g>
+
+  <!-- 2. Mini SQL Database (81.5%) -->
+  <g transform="translate(185, 0)">
+    <text x="30" y="112" class="bar-value">81.5%</text>
+    <rect x="5" y="132" width="50" height="308" fill="url(#grad-high)" rx="3" />
+    <text x="30" y="458" class="bar-label">Mini SQL</text>
+    <text x="30" y="473" class="bar-label">Database</text>
+  </g>
+
+  <!-- 3. Terminal Text Editor (75.0%) -->
+  <g transform="translate(260, 0)">
+    <text x="30" y="145" class="bar-value">75.0%</text>
+    <rect x="5" y="165" width="50" height="275" fill="url(#grad-mid-high)" rx="3" />
+    <text x="30" y="458" class="bar-label">Terminal</text>
+    <text x="30" y="473" class="bar-label">Text Editor</text>
+  </g>
+
+  <!-- 4. HTTP Server (70.0%) -->
+  <g transform="translate(335, 0)">
+    <text x="30" y="170" class="bar-value">70.0%</text>
+    <rect x="5" y="190" width="50" height="250" fill="url(#grad-mid-high)" rx="3" />
+    <text x="30" y="458" class="bar-label">HTTP</text>
+    <text x="30" y="473" class="bar-label">Server</text>
+  </g>
+
+  <!-- 5. RLE File Archiver (64.0%) -->
+  <g transform="translate(410, 0)">
+    <text x="30" y="200" class="bar-value">64.0%</text>
+    <rect x="5" y="220" width="50" height="220" fill="url(#grad-mid)" rx="3" />
+    <text x="30" y="458" class="bar-label">RLE File</text>
+    <text x="30" y="473" class="bar-label">Archiver</text>
+  </g>
+
+  <!-- 6. Banking System (59.0%) -->
+  <g transform="translate(485, 0)">
+    <text x="30" y="225" class="bar-value">59.0%</text>
+    <rect x="5" y="245" width="50" height="195" fill="url(#grad-mid)" rx="3" />
+    <text x="30" y="458" class="bar-label">Banking</text>
+    <text x="30" y="473" class="bar-label">System</text>
+  </g>
+
+  <!-- 7. Contact Book (51.0%) -->
+  <g transform="translate(560, 0)">
+    <text x="30" y="265" class="bar-value">51.0%</text>
+    <rect x="5" y="285" width="50" height="155" fill="url(#grad-mid)" rx="3" />
+    <text x="30" y="458" class="bar-label">Contact</text>
+    <text x="30" y="473" class="bar-label">Book</text>
+  </g>
+
+  <!-- 8. Dynamic Quiz Game (44.0%) -->
+  <g transform="translate(635, 0)">
+    <text x="30" y="300" class="bar-value">44.0%</text>
+    <rect x="5" y="320" width="50" height="120" fill="url(#grad-low)" rx="3" />
+    <text x="30" y="458" class="bar-label">Quiz Game</text>
+  </g>
+
+  <!-- 9. Student Grade System (36.0%) -->
+  <g transform="translate(710, 0)">
+    <text x="30" y="340" class="bar-value">36.0%</text>
+    <rect x="5" y="360" width="50" height="80" fill="url(#grad-low)" rx="3" />
+    <text x="30" y="458" class="bar-label">Grade</text>
+    <text x="30" y="473" class="bar-label">System</text>
+  </g>
+
+  <!-- 10. Console To-Do List (32.0%) -->
+  <g transform="translate(785, 0)">
+    <text x="30" y="360" class="bar-value">32.0%</text>
+    <rect x="5" y="380" width="50" height="60" fill="url(#grad-low)" rx="3" />
+    <text x="30" y="458" class="bar-label">To-Do List</text>
+  </g>
+</svg>
+
+>>>>>>> bac25cc5f12d12ee1841f74c6100f996b16178e8

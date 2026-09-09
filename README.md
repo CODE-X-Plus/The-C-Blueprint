@@ -13,7 +13,7 @@
 </div>
 
   <h6>Hello! I am Sumit Midya, a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning, currently stepping into the world of software engineering.</h6>
-<h6>Every solid system architecture starts at the metal, which is why I am building my repos from the ground up with C.Mastering pointers,memory allocation, and core data structures through hands-on practice-ranging from fundamental logic problems to my advanced system-level projects like custom shell Exp. interpreters and lightweight database engines. So I am bridging the gap between low-level hardware control and modern, intelligent applications.The-C-Blueprint is my personal digital workspace and tracker. As a B.Tech CSE (AI & ML) freshman, this repository documents my journey of mastering C programming from day one!
+<h6>Every solid system architecture starts at the metal, which is why I am building my repos from the ground up with C.Mastering pointers,memory allocation, and core data structures through hands-on practice-ranging from fundamental logic problems to my advanced system-level projects like custom shell Exp. interpreters and lightweight database engines. So I am bridging the gap between low-level hardware control and modern, intelligent applications.The-C-Blueprint is my personal digital workspace and tracker. As a B.Tech CSE (AI & ML) freshman, this repository documents my journey of mastering C programming from day one!!
 </h6>
 
 ---
