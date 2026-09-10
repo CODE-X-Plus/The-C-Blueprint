@@ -2,7 +2,7 @@
   <img src="./@ASSETS/Proton.png" alt="The-C-Blueprint Logo" width="260" height="160" style="border-radius: 16px; object-fit: cover; display: block; margin: 0 auto;">
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/main/Others_files/banner.svg">
+<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/new-main/Others_files/banner.svg">
 </p>
 
 ---
@@ -162,7 +162,7 @@ The-C-Blueprint
   <b> <h3>🌀The Architectural Complexity Index</h3></b>
 </div>
 <p align="center">
-<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/main/Others_files/Projects.svg">
+<img src="https://raw.githubusercontent.com/CODE-X-Plus/The-C-Blueprint/refs/heads/new-main/Others_files/Projects.svg">
 </p>
 <h6>Index: Bridging core fundamentals with systems-level engineering, the intermediate and advanced tiers are structured to manage rigorous computational workloads. The repository categorizes these stages into three distinct functional modules. Medium Level Part 1 (Problems 01–10) focuses on algorithmic problem-solving, searching, sorting, and text processing. Medium Level Part 2 (Problems 11–20) builds on this foundation with matrix rotations, linked lists, and dynamic memory tasks under c-medium-problems/.</h6>
 
