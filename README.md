@@ -163,6 +163,6 @@ The-C-Blueprint
 <h6>Index: Bridging core fundamentals with systems-level engineering, the intermediate and advanced tiers are structured to manage rigorous computational workloads. The repository categorizes these stages into three distinct functional modules. Medium Level Part 1 (Problems 01–10) focuses on algorithmic problem-solving, searching, sorting, and text processing. Medium Level Part 2 (Problems 11–20) builds on this foundation with matrix rotations, linked lists, and dynamic memory tasks under c-medium-problems/.</h6>
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+## 🌀License/[MIT]
+<h6>This project is licensed under the [MIT License](http://127.0.0.1:5500/LICENSE.md).</h6>
 
