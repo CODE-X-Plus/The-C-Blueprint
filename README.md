@@ -164,5 +164,5 @@ The-C-Blueprint
 
 
 ## 🌀License[MIT]
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
