@@ -164,5 +164,5 @@ The-C-Blueprint
 
 
 ## 🌀License/[MIT]
-<h6>This project is licensed under the [MIT License](http://127.0.0.1:5500/LICENSE.md).</h6>
+<h6>This project is licensed under the</h6> [MIT License](LICENSE).
 
